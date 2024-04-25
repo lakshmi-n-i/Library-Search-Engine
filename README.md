@@ -17,7 +17,7 @@ The library search engine project aims to recommend books to users based on thei
 
 7) Dynamic Book Recommendation: The system continuously learns from user interactions and dynamically adjusts its recommendations based on user feedback. This adaptive approach ensures that the search engine provides increasingly accurate and personalized book recommendations over time.
 
-#Technology used
+# Technology used
 * Flask - A lightweight web application used to build web applications.
 * Gensim - Python library used for topic modelling and document similarity analysis.
 * Pickle - Used for serializing and deserializing Python objects. 
