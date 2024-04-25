@@ -16,3 +16,10 @@ The library search engine project aims to recommend books to users based on thei
 6) Relevance Score: The search engine displays a relevance score alongside each recommended book, providing users with valuable insights into the similarity between their query and the suggested titles. This relevance score is calculated based on the semantic similarity between the user's search query and the content of each book description. A higher relevance score indicates a closer match between the user's interests and the content of the recommended book. This helps users make informed decisions about which books to explore further, enabling them to quickly identify titles that are most likely to meet their preferences and requirements.
 
 7) Dynamic Book Recommendation: The system continuously learns from user interactions and dynamically adjusts its recommendations based on user feedback. This adaptive approach ensures that the search engine provides increasingly accurate and personalized book recommendations over time.
+
+#Technology used
+* Flask - A lightweight web application used to build web applications.
+* Gensim - Python library used for topic modelling and document similarity analysis.
+* Pickle - Used for serializing and deserializing Python objects. 
+* Pandas - Used to manipulate and analyze structured data mainly used for data pre-processing and cleaning.
+* Spacy - NLP library for Python which provides tools for NLP tasks such as tokenization used for text processing.
